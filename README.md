@@ -2,7 +2,8 @@
 
 ## 🚀 Sobre mim
 
-<div style="text-align: justify"> Formado em ciência da computação busco primeira experiência profissional. Tenho habilidade para resolver problemas que usam lógica por isso desejo ser um desenvolvedor. Desenvolvi muitas competências durante minha formação acadêmica, aprendendo diversas tecnologias para desenvolvimento de soluções. Gosto de trabalhar com pessoas que possuem o mesmo objetivo que o meu. Tenho um pouco de experiência com plataformas de nuvem já que foram o tema de meu trabalho de conclusão de curso.  </div>
+<div style="text-align: justify"> Formado em Ciência da Computação. Desenvolvedor backend júnior com conhecimento em C# e .NET, voltado para a criação de APIs e aplicações web. Experiência acadêmica e em projetos pessoais no desenvolvimento de sistemas utilizando banco de dados SQL Server e MongoDB. Familiaridade com conceitos de Cloud Computing e com uso básico de serviços da AWS e Azure para hospedagem e testes de aplicações. Conhecimento em sistemas Linux, com prática em linha de comando, configuração de ambientes e versionamento com Git.
+  </div>
 
 
 ## Conecte-se Comigo
